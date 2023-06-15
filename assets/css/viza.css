@@ -11513,7 +11513,8 @@ p {
 }
 
 @media (max-width: 991.98px) {
-  .contact-card .infos {
+  .contact-card .form {
+    display: none;
   }
 }
 
